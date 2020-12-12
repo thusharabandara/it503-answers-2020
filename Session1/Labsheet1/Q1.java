@@ -1,7 +1,5 @@
-class Q1
-{
-    public static void main(String[] args)
-    {
+class Q1 {
+    public static void main(String[] args) {
         double a = 24.1;
         double b = 21.0;
 
